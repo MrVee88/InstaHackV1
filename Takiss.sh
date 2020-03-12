@@ -1,11 +1,5 @@
 #!/bin/bash
-
-######################################################################
-#Author         : Rian Dedy Setianto Aka Mr.Vee88
-#Instagram      : @fckinpeople
-#Github         : https://github.com/MrVee88
-#thanks to      : Allah Swt - Cukimay Cyber Team - fuckin' Hidden Crew
-######################################################################
+#Version1.0
 
 #color(bold)
 red='\e[1;31m'
@@ -28,7 +22,15 @@ echo -e $'''
  ##  ##  ####       ##    ##    ######### ##     ## ######### ##       ##  ##   
  ##  ##   ### ##    ##    ##    ##     ## ##     ## ##     ## ##    ## ##   ##  
 #### ##    ##  ######     ##    ##     ## ##     ## ##     ##  ######  ##    ## V.1.0
-'''
+''' | Lolcat
+echo -e $'''
+######################################################################
+#Author         : Rian Dedy Setianto Aka Mr.Vee88
+#Instagram      : @fckinpeople
+#Github         : https://github.com/MrVee88
+#thanks to      : Allah Swt - Cukimay Cyber Team - fuckin' Hidden Crew
+######################################################################
+''' | Lolcat
 
 #dependencies
 dependencies=( "jq" "curl" )
