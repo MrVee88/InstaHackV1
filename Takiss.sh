@@ -21,15 +21,15 @@ echo -e $'''
  ##  ## ## ##  ######     ##    ##     ## ######### ##     ## ##       #####    
  ##  ##  ####       ##    ##    ######### ##     ## ######### ##       ##  ##   
  ##  ##   ### ##    ##    ##    ##     ## ##     ## ##     ## ##    ## ##   ##  
-#### ##    ##  ######     ##    ##     ## ##     ## ##     ##  ######  ##    ## V.1.0\e[1;31m'
-
-========================================================================
-Author         : Rian Dedy Setianto Aka Mr.Vee88\e[1;32m'
-Instagram      : @fckinpeople\e[1;36m'
-Github         : https://github.com/MrVee88\e[1;34m'
-thanks to      : Allah Swt - Cukimay Cyber Team - fuckin' Hidden Crew\e[1;33m'
-========================================================================
+#### ##    ##  ######     ##    ##     ## ##     ## ##     ##  ######  ##    ## V.1.0
 '''
+#name
+echo " ======================================================================== | lolcat
+echo " Author         : Rian Dedy Setianto Aka Mr.Vee88\e[1;32m'
+echo " Instagram      : @fckinpeople\e[1;36m'
+echo " Github         : https://github.com/MrVee88\e[1;34m'
+echo " thanks to      : Allah Swt - Cukimay Cyber Team - fuckin' Hidden Crew\e[1;33m'
+echo " ======================================================================== | lolcat
 
 #dependencies
 dependencies=( "jq" "curl" )
